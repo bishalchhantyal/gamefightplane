@@ -1,0 +1,19 @@
+﻿  Dust.cpp
+  Enemy.cpp
+  GUIButton.cpp
+  Main.cpp
+C:\Users\Jiwan\source\repos\Fighter_PlaneGame\Main.cpp(178,21): warning C4311: '<function-style-cast>': pointer truncation from 'time_t (__cdecl *)(time_t *const )' to 'unsigned int'
+C:\Users\Jiwan\source\repos\Fighter_PlaneGame\Main.cpp(178,21): warning C4302: '<function-style-cast>': truncation from 'time_t (__cdecl *)(time_t *const )' to 'unsigned int'
+C:\Users\Jiwan\source\repos\Fighter_PlaneGame\Main.cpp(390,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  MixMusic.cpp
+  Player.cpp
+  Projectile.cpp
+  Texture2D.cpp
+  Utils.cpp
+C:\Users\Jiwan\source\repos\Fighter_PlaneGame\Utils.cpp(220,17): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Jiwan\source\repos\Fighter_PlaneGame\Utils.cpp(221,17): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Vector2D.cpp
+  Generating code
+  Not all modules are compiled with -Gy (function comdat), build without incremental LTCG.
+  Finished generating code
+  GameDemo.vcxproj -> C:\Users\Jiwan\source\repos\Fighter_PlaneGame\x64\Debug\GameDemo.exe

@@ -1,0 +1,14 @@
+﻿  Dust.cpp
+  Enemy.cpp
+  GUIButton.cpp
+  Main.cpp
+  MixMusic.cpp
+  Player.cpp
+  Projectile.cpp
+  Texture2D.cpp
+  Utils.cpp
+C:\Users\61406\Desktop\TinyShooter-master\TinyShooter-master\Utils.cpp(220,17): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+C:\Users\61406\Desktop\TinyShooter-master\TinyShooter-master\Utils.cpp(221,17): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+  Vector2D.cpp
+  Generating Code...
+  GameDemo.vcxproj -> C:\Users\61406\Desktop\TinyShooter-master\TinyShooter-master\Debug\GameDemo.exe
